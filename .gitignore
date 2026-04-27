@@ -1,0 +1,7 @@
+*
+!.gitignore
+!docs/
+!docs/foreign-report/
+!docs/foreign-report/feed.xml
+!docs/foreign-report/audio/
+!docs/foreign-report/audio/20260426F1.mp3

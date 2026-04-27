@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>外资重磅</title>
+    <link>https://lexiaoyao.github.io/finance-podcast/foreign-report</link>
+    <description>全球顶级投行最新报告解读。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 27 Apr 2026 12:04:11 +0800</lastBuildDate>
+    <item>
+      <title>高盛重磅：政治局定调超常规宽松，三大变量决定 A 股下半年</title>
+      <link>https://lexiaoyao.github.io/finance-podcast/foreign-report/episodes/20260426F1</link>
+      <guid isPermaLink="false">foreign-report-20260426F1</guid>
+      <pubDate>Mon, 27 Apr 2026 12:00:00 +0800</pubDate>
+      <description>本期解读高盛 2026 年 4 月 24 日发布的中国宏观策略报告，聚焦超常规逆周期调节、财政货币协同和 A 股下半年三大变量。</description>
+      <itunes:duration>00:10:02</itunes:duration>
+      <itunes:image href="https://lexiaoyao.github.io/finance-podcast/foreign-report/covers/20260426F1.png" />
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/foreign-report/audio/20260426F1.mp3" length="9632436" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
