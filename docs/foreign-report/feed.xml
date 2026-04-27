@@ -5,16 +5,17 @@
     <link>https://lexiaoyao.github.io/finance-podcast/foreign-report</link>
     <description>全球顶级投行最新报告解读。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 27 Apr 2026 12:04:11 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 15:41:29 +0800</lastBuildDate>
     <item>
-      <title>高盛重磅：政治局定调超常规宽松，三大变量决定 A 股下半年</title>
-      <link>https://lexiaoyao.github.io/finance-podcast/foreign-report/episodes/20260426F1</link>
+      <title>高盛重磅解读：政治局定调之后，A 股下半年真正要看什么？</title>
+      <link>https://lexiaoyao.github.io/finance-podcast/foreign-report/episodes/20260426F1/</link>
       <guid isPermaLink="false">foreign-report-20260426F1</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0800</pubDate>
-      <description>本期解读高盛 2026 年 4 月 24 日发布的中国宏观策略报告，聚焦超常规逆周期调节、财政货币协同和 A 股下半年三大变量。</description>
-      <itunes:duration>00:10:02</itunes:duration>
-      <itunes:image href="https://lexiaoyao.github.io/finance-podcast/foreign-report/covers/20260426F1.png" />
-      <enclosure url="https://lexiaoyao.github.io/finance-podcast/foreign-report/audio/20260426F1.mp3" length="9632436" type="audio/mpeg" />
+      <description>本期解读高盛 2026 年 4 月 24 日中国宏观策略报告，聚焦政治局会议后“超常规逆周期调节”的政策含义，以及特别国债、降准降息、人民币企稳和北向资金回流对 A 股下半年风险偏好的影响。</description>
+      <itunes:duration>00:09:10</itunes:duration>
+      <itunes:image href="https://lexiaoyao.github.io/finance-podcast/foreign-report/episodes/20260426F1/covers/20260426F1.png" />
+      <itunes:summary>本期解读高盛 2026 年 4 月 24 日中国宏观策略报告，聚焦政治局会议后“超常规逆周期调节”的政策含义，以及特别国债、降准降息、人民币企稳和北向资金回流对 A 股下半年风险偏好的影响。</itunes:summary>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/foreign-report/episodes/20260426F1/audio/20260426F1_v2.mp3" length="8794356" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
