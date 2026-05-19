@@ -13,6 +13,16 @@
       <link>https://lexiaoyao.github.io/finance-podcast/foreign-report/</link>
     </image>
 
+    <itunes:category text="Business">
+      <itunes:category text="Investing" />
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:author>乐逍遥</itunes:author>
+    <itunes:owner>
+      <itunes:name>乐逍遥</itunes:name>
+      <itunes:email>xiaoyao201207@gmail.com</itunes:email>
+    </itunes:owner>
+
     <lastBuildDate>Mon, 18 May 2026 12:00:00 +0800</lastBuildDate>
 
     <item>
