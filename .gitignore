@@ -11,3 +11,13 @@ __pycache__/
 node_modules/
 
 *.log
+
+# Internal docs for foreign-report automation
+docs/foreign-report/PIPELINE.md
+docs/foreign-report/*GUARDRAILS.md
+docs/foreign-report/*INTERNAL*.md
+docs/foreign-report/*内部*.md
+docs/foreign-report/*手册*.md
+
+# Claude local workspace
+.claude/
