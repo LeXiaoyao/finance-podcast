@@ -21,3 +21,8 @@ docs/foreign-report/*手册*.md
 
 # Claude local workspace
 .claude/
+
+# Podcast production should not publish raw TTS/script drafts
+docs/foreign-report/episodes/*/tts_input_*.txt
+docs/foreign-report/episodes/*/*draft*.txt
+docs/foreign-report/episodes/*/*final*.txt
