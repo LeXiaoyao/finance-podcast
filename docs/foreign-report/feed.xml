@@ -23,7 +23,19 @@
       <itunes:email>xiaoyao201207@gmail.com</itunes:email>
     </itunes:owner>
 
-    <lastBuildDate>Wed, 27 May 2026 12:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 18:00:00 +0800</lastBuildDate>
+
+    <item>
+      <title>外资重磅第11期｜外资为什么开始重新给阿里估值？——电商现金流 + 云基础设施 + AI 期权</title>
+      <link>https://lexiaoyao.github.io/finance-podcast/foreign-report/episodes/20260527F11/</link>
+      <guid isPermaLink="false">foreign-report-20260527F11</guid>
+      <pubDate>Wed, 27 May 2026 18:00:00 +0800</pubDate>
+      <description>外资问阿里的问题变了——从"淘宝能不能打赢拼多多"切换到"阿里云 AI 收入占比、3800 亿三年 capex 兑现、Qwen 能不能成为企业云入口"。本期把阿里拆成三次身份变化，重构估值方法：从市盈率切到三层 SOTP（电商现金流 + 阿里云 + AI 期权），一句话——电商是底，云是腰，AI 是期权。同时横向比对腾讯、京东、美团、百度、拼多多、字节，并给出四个反转条件与下半年三个观察指标。</description>
+      <itunes:duration>00:11:54</itunes:duration>
+      <itunes:image href="https://lexiaoyao.github.io/finance-podcast/foreign-report/episodes/20260527F11/covers/20260527F11.png" />
+      <itunes:summary>外资问阿里的问题变了——从"淘宝能不能打赢拼多多"切换到"阿里云 AI 收入占比、3800 亿三年 capex 兑现、Qwen 能不能成为企业云入口"。本期把阿里拆成三次身份变化，重构估值方法：从市盈率切到三层 SOTP（电商现金流 + 阿里云 + AI 期权），一句话——电商是底，云是腰，AI 是期权。同时横向比对腾讯、京东、美团、百度、拼多多、字节，并给出四个反转条件与下半年三个观察指标。</itunes:summary>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/foreign-report/episodes/20260527F11/audio/20260527F11.mp3" length="11438772" type="audio/mpeg" />
+    </item>
 
     <item>
       <title>外资重磅第10期｜外资为什么开始追"中国软实力出海"？</title>
