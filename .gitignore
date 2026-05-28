@@ -26,3 +26,4 @@ docs/foreign-report/*手册*.md
 docs/foreign-report/episodes/*/tts_input_*.txt
 docs/foreign-report/episodes/*/*draft*.txt
 docs/foreign-report/episodes/*/*final*.txt
+docs/foreign-report/episodes/*/audio/*_raw.mp3
