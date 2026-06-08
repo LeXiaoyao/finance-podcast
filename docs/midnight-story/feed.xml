@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>午夜故事铺</title>
+    <description>每天几分钟，讲一个原创民间异闻、都市怪谈和悬疑故事。适合睡前、通勤和深夜收听。故事均为原创虚构演绎，请勿代入现实。</description>
+    <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/index.html</link>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 07 Jun 2026 12:00:00 +0000</lastBuildDate>
+    <itunes:author>午夜故事铺</itunes:author>
+    <itunes:summary>每天几分钟，讲一个原创民间异闻、都市怪谈和悬疑故事。适合睡前、通勤和深夜收听。故事均为原创虚构演绎，请勿代入现实。</itunes:summary>
+    <itunes:category text="Fiction" />
+    
+    <item>
+      <title>山村老宅半夜有人敲门，爷爷只说了三个字：别答应</title>
+      <description>山村老宅、半夜敲门和爷爷留下的三个字。原创民间异闻故事。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/001.html</link>
+      <guid isPermaLink="false">midnight-story-001</guid>
+      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/001_shancun_old_house_yunxi_enhanced.mp3" length="11962412" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>深夜出租车拉到怪客，第二天后座多了一把黑伞</title>
+      <description>一趟开往城西尽头的夜车，留下了不该出现的黑伞。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/002.html</link>
+      <guid isPermaLink="false">midnight-story-002</guid>
+      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/002_midnight_taxi_yunxi_enhanced.mp3" length="11814956" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>太平间值夜班，听见有人喊你名字千万别回头</title>
+      <description>地下二层太平间的夜班规矩：听见名字不要回头。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/003.html</link>
+      <guid isPermaLink="false">midnight-story-003</guid>
+      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/003_morgue_night_shift_yunxi_enhanced.mp3" length="14090156" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>村口老井每年七月封起来，老人说井里会喊人</title>
+      <description>七月封井、黄纸黑圈和不能答应的井底呼喊。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/004.html</link>
+      <guid isPermaLink="false">midnight-story-004</guid>
+      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/004_old_well_yunxi_enhanced.mp3" length="10958444" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>盗墓人带回一盏不灭灯，村里人从此不再点灯</title>
+      <description>一盏从古墓里带回来的不灭灯，让全村人的影子变了样。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/005.html</link>
+      <guid isPermaLink="false">midnight-story-005</guid>
+      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/005_ancient_tomb_lamp_yunxi_enhanced.mp3" length="15032492" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>

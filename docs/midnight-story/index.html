@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>午夜故事铺</title>
+  <style>
+    :root { color-scheme: dark; --bg: #111312; --panel: #1b201d; --text: #f3efe6; --muted: #b9b2a3; --line: #343b35; --accent: #d8a85f; }
+    body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+    header, main, footer { width: min(920px, calc(100% - 32px)); margin: 0 auto; }
+    header { padding: 48px 0 24px; border-bottom: 1px solid var(--line); }
+    .channel-cover { width: min(360px, 80vw); border-radius: 8px; display: block; margin: 0 0 24px; }
+    h1 { margin: 0 0 12px; font-size: clamp(32px, 6vw, 58px); letter-spacing: 0; }
+    h2 { margin: 8px 0 10px; font-size: 22px; letter-spacing: 0; }
+    a { color: var(--accent); text-decoration: none; }
+    main { padding: 24px 0 48px; }
+    .episode { display: grid; grid-template-columns: 160px 1fr; gap: 20px; padding: 20px 0; border-bottom: 1px solid var(--line); align-items: start; }
+    .episode img { width: 160px; height: 160px; object-fit: cover; border-radius: 8px; }
+    .meta, .tags, .audio-state, footer { color: var(--muted); font-size: 14px; }
+    .rss { display: inline-block; margin-top: 16px; color: var(--bg); background: var(--accent); padding: 8px 12px; border-radius: 6px; }
+    @media (max-width: 640px) { .episode { grid-template-columns: 1fr; } .episode img { width: 100%; height: auto; aspect-ratio: 1; } }
+  </style>
+</head>
+<body>
+  <header>
+    <img class="channel-cover" src="covers/channel_cover.png" alt="午夜故事铺频道封面">
+    <h1>午夜故事铺</h1>
+    <p>每天几分钟，讲一个原创民间异闻、都市怪谈和悬疑故事。适合睡前、通勤和深夜收听。故事均为原创虚构演绎，请勿代入现实。</p>
+    <p class="meta">故事 / 有声故事 / 悬疑 / 民间故事 / 怪谈</p>
+    <a class="rss" href="feed.xml">RSS Feed</a>
+  </header>
+  <main>
+    
+      <article class="episode">
+        <img src="covers/001.png" alt="山村老宅半夜有人敲门，爷爷只说了三个字：别答应封面">
+        <div class="meta">第 001 集 · 6-8 分钟 · draft</div>
+        <h2><a href="episodes/001.html">山村老宅半夜有人敲门，爷爷只说了三个字：别答应</a></h2>
+        <p>老家山里的旧宅，半夜总有人敲门。爷爷临睡前只交代三个字：别答应。那一晚，我以为门外只是过路人，直到第二天看见门槛上的泥印，才明白爷爷为什么一夜没合眼。原创民间异闻故事，适合睡前和深夜收听。本故事为原创虚构民间异闻演绎，请勿代入现实。</p>
+        <p class="tags">民间故事 / 异闻 / 悬疑 / 怪谈 / 睡前故事 / 山村老宅</p>
+        <p><a href="audio/001_shancun_old_house_yunxi_enhanced.mp3">音频文件</a> · <a href="episodes/001.html">单集页</a></p>
+        <p class="audio-state">音频已生成</p>
+      </article>
+      <article class="episode">
+        <img src="covers/002.png" alt="深夜出租车拉到怪客，第二天后座多了一把黑伞封面">
+        <div class="meta">第 002 集 · 8-10 分钟 · draft</div>
+        <h2><a href="episodes/002.html">深夜出租车拉到怪客，第二天后座多了一把黑伞</a></h2>
+        <p>夜班司机老周在城西老路拉到一个沉默怪客。对方只说去“尽头”，下车时没有付款，只留下一个纸包。第二天，老周在后座发现一把不该出现的黑伞，伞柄上还刻着四个字。原创都市异闻故事，适合深夜收听。本故事为原创虚构民间异闻演绎，请勿代入现实。</p>
+        <p class="tags">民间故事 / 异闻 / 悬疑 / 怪谈 / 睡前故事 / 深夜出租车</p>
+        <p><a href="audio/002_midnight_taxi_yunxi_enhanced.mp3">音频文件</a> · <a href="episodes/002.html">单集页</a></p>
+        <p class="audio-state">音频已生成</p>
+      </article>
+      <article class="episode">
+        <img src="covers/003.png" alt="太平间值夜班，听见有人喊你名字千万别回头封面">
+        <div class="meta">第 003 集 · 8-10 分钟 · draft</div>
+        <h2><a href="episodes/003.html">太平间值夜班，听见有人喊你名字千万别回头</a></h2>
+        <p>小陈第一次在医院太平间值夜班，老班长只交代三条规矩：别数柜门，别接内线，听见有人喊名字别回头。凌晨三点，他的名字从最里面那排冷柜传了出来。原创医院守夜悬疑故事，适合深夜收听。本故事为原创虚构民间异闻演绎，请勿代入现实。</p>
+        <p class="tags">民间故事 / 异闻 / 悬疑 / 怪谈 / 睡前故事 / 医院守夜</p>
+        <p><a href="audio/003_morgue_night_shift_yunxi_enhanced.mp3">音频文件</a> · <a href="episodes/003.html">单集页</a></p>
+        <p class="audio-state">音频已生成</p>
+      </article>
+      <article class="episode">
+        <img src="covers/004.png" alt="村口老井每年七月封起来，老人说井里会喊人封面">
+        <div class="meta">第 004 集 · 8-10 分钟 · draft</div>
+        <h2><a href="episodes/004.html">村口老井每年七月封起来，老人说井里会喊人</a></h2>
+        <p>村口有口老井，每年七月都要用石板封住。老人说，封井那晚，谁听见井里有人叫你，都不能答应。少年阿青不信，偷偷掀开石板往下看了一眼，从此村里每一户人家的水缸，都映出同一张脸。本故事为原创虚构民间异闻演绎，请勿代入现实。</p>
+        <p class="tags">民间故事 / 异闻 / 悬疑 / 怪谈 / 睡前故事 / 老井传说</p>
+        <p><a href="audio/004_old_well_yunxi_enhanced.mp3">音频文件</a> · <a href="episodes/004.html">单集页</a></p>
+        <p class="audio-state">音频已生成</p>
+      </article>
+      <article class="episode">
+        <img src="covers/005.png" alt="盗墓人带回一盏不灭灯，村里人从此不再点灯封面">
+        <div class="meta">第 005 集 · 10-12 分钟 · draft</div>
+        <h2><a href="episodes/005.html">盗墓人带回一盏不灭灯，村里人从此不再点灯</a></h2>
+        <p>三个人进山寻古墓，只带回一盏不会熄灭的铜灯。起初村里人都说他们发财了，直到夜里灯光照过每一张脸，大家才发现，回来的不一定是原来那三个人。原创古墓异闻故事。本故事为原创虚构民间异闻演绎，请勿代入现实。</p>
+        <p class="tags">民间故事 / 异闻 / 悬疑 / 怪谈 / 睡前故事 / 古墓异闻</p>
+        <p><a href="audio/005_ancient_tomb_lamp_yunxi_enhanced.mp3">音频文件</a> · <a href="episodes/005.html">单集页</a></p>
+        <p class="audio-state">音频已生成</p>
+      </article>
+  </main>
+  <footer>
+    <p>本页为《午夜故事铺》MVP 静态骨架，音频生成后重新运行构建脚本即可补齐 RSS enclosure。</p>
+  </footer>
+</body>
+</html>
