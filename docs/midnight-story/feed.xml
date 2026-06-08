@@ -1,53 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>午夜故事铺</title>
+    <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/</link>
     <description>每天几分钟，讲一个原创民间异闻、都市怪谈和悬疑故事。适合睡前、通勤和深夜收听。故事均为原创虚构演绎，请勿代入现实。</description>
-    <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/index.html</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 07 Jun 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 11:34:51 +0800</lastBuildDate>
     <itunes:author>午夜故事铺</itunes:author>
     <itunes:summary>每天几分钟，讲一个原创民间异闻、都市怪谈和悬疑故事。适合睡前、通勤和深夜收听。故事均为原创虚构演绎，请勿代入现实。</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>乐逍遥</itunes:name>
+      <itunes:email>xiaoyao201207@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://lexiaoyao.github.io/finance-podcast/midnight-story/covers/channel_cover.png" />
+    <image>
+      <url>https://lexiaoyao.github.io/finance-podcast/midnight-story/covers/channel_cover.png</url>
+      <title>午夜故事铺</title>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/</link>
+    </image>
     <itunes:category text="Fiction" />
-    
+    <itunes:category text="Arts" />
+
     <item>
       <title>山村老宅半夜有人敲门，爷爷只说了三个字：别答应</title>
-      <description>山村老宅、半夜敲门和爷爷留下的三个字。原创民间异闻故事。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <description>老家山里的旧宅，半夜总有人敲门。爷爷临睡前只交代三个字：别答应。那一晚，我以为门外只是过路人，直到第二天看见门槛上的泥印，才明白爷爷为什么一夜没合眼。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
       <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/001.html</link>
       <guid isPermaLink="false">midnight-story-001</guid>
-      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 12:00:00 +0800</pubDate>
+      <itunes:duration>08:18</itunes:duration>
+      <itunes:summary>老家山里的旧宅，半夜总有人敲门。爷爷临睡前只交代三个字：别答应。那一晚，我以为门外只是过路人，直到第二天看见门槛上的泥印，才明白爷爷为什么一夜没合眼。本故事为原创虚构民间异闻演绎，请勿代入现实。</itunes:summary>
+      <itunes:image href="https://lexiaoyao.github.io/finance-podcast/midnight-story/covers/001.png" />
       <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/001_shancun_old_house_yunxi_enhanced.mp3" length="11962412" type="audio/mpeg" />
     </item>
+
     <item>
       <title>深夜出租车拉到怪客，第二天后座多了一把黑伞</title>
-      <description>一趟开往城西尽头的夜车，留下了不该出现的黑伞。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <description>夜班司机老周在城西老路拉到一个沉默怪客。对方只说去“尽头”，下车时没有付款，只留下一个纸包。第二天，老周在后座发现一把不该出现的黑伞，才知道昨晚那趟车根本没有开到活人要去的地方。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
       <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/002.html</link>
       <guid isPermaLink="false">midnight-story-002</guid>
-      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 12:10:00 +0800</pubDate>
+      <itunes:duration>08:12</itunes:duration>
+      <itunes:summary>夜班司机老周在城西老路拉到一个沉默怪客。对方只说去“尽头”，下车时没有付款，只留下一个纸包。第二天，老周在后座发现一把不该出现的黑伞，才知道昨晚那趟车根本没有开到活人要去的地方。本故事为原创虚构民间异闻演绎，请勿代入现实。</itunes:summary>
+      <itunes:image href="https://lexiaoyao.github.io/finance-podcast/midnight-story/covers/002.png" />
       <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/002_midnight_taxi_yunxi_enhanced.mp3" length="11814956" type="audio/mpeg" />
     </item>
+
     <item>
       <title>太平间值夜班，听见有人喊你名字千万别回头</title>
-      <description>地下二层太平间的夜班规矩：听见名字不要回头。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <description>小陈第一次在医院太平间值夜班，老班长只交代三条规矩：别数柜门，别接内线，听见有人喊名字别回头。凌晨三点，他的名字从最里面那排冷柜传了出来。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
       <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/003.html</link>
       <guid isPermaLink="false">midnight-story-003</guid>
-      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 12:20:00 +0800</pubDate>
+      <itunes:duration>09:47</itunes:duration>
+      <itunes:summary>小陈第一次在医院太平间值夜班，老班长只交代三条规矩：别数柜门，别接内线，听见有人喊名字别回头。凌晨三点，他的名字从最里面那排冷柜传了出来。本故事为原创虚构民间异闻演绎，请勿代入现实。</itunes:summary>
+      <itunes:image href="https://lexiaoyao.github.io/finance-podcast/midnight-story/covers/003.png" />
       <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/003_morgue_night_shift_yunxi_enhanced.mp3" length="14090156" type="audio/mpeg" />
     </item>
+
     <item>
       <title>村口老井每年七月封起来，老人说井里会喊人</title>
-      <description>七月封井、黄纸黑圈和不能答应的井底呼喊。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <description>村口有口老井，每年七月都要用石板封住。老人说，封井那晚，谁听见井里有人叫你，都不能答应。少年阿青不信，偷偷掀开石板往下看了一眼，从此村里每一户人家的水缸，都映出同一张脸。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
       <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/004.html</link>
       <guid isPermaLink="false">midnight-story-004</guid>
-      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 12:30:00 +0800</pubDate>
+      <itunes:duration>07:37</itunes:duration>
+      <itunes:summary>村口有口老井，每年七月都要用石板封住。老人说，封井那晚，谁听见井里有人叫你，都不能答应。少年阿青不信，偷偷掀开石板往下看了一眼，从此村里每一户人家的水缸，都映出同一张脸。本故事为原创虚构民间异闻演绎，请勿代入现实。</itunes:summary>
+      <itunes:image href="https://lexiaoyao.github.io/finance-podcast/midnight-story/covers/004.png" />
       <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/004_old_well_yunxi_enhanced.mp3" length="10958444" type="audio/mpeg" />
     </item>
+
     <item>
       <title>盗墓人带回一盏不灭灯，村里人从此不再点灯</title>
-      <description>一盏从古墓里带回来的不灭灯，让全村人的影子变了样。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <description>三个人进山寻古墓，只带回一盏不会熄灭的铜灯。起初村里人都说他们发财了，直到夜里灯光照过每一张脸，大家才发现，回来的不一定是原来那三个人。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
       <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/005.html</link>
       <guid isPermaLink="false">midnight-story-005</guid>
-      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 12:40:00 +0800</pubDate>
+      <itunes:duration>10:26</itunes:duration>
+      <itunes:summary>三个人进山寻古墓，只带回一盏不会熄灭的铜灯。起初村里人都说他们发财了，直到夜里灯光照过每一张脸，大家才发现，回来的不一定是原来那三个人。本故事为原创虚构民间异闻演绎，请勿代入现实。</itunes:summary>
+      <itunes:image href="https://lexiaoyao.github.io/finance-podcast/midnight-story/covers/005.png" />
       <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/005_ancient_tomb_lamp_yunxi_enhanced.mp3" length="15032492" type="audio/mpeg" />
     </item>
   </channel>
