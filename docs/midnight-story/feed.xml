@@ -5,7 +5,7 @@
     <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/</link>
     <description>每天几分钟，讲一个原创民间异闻、都市怪谈和悬疑故事。适合睡前、通勤和深夜收听。故事均为原创虚构演绎，请勿代入现实。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 08 Jun 2026 11:34:51 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 23:00:00 +0800</lastBuildDate>
     <itunes:author>午夜故事铺</itunes:author>
     <itunes:summary>每天几分钟，讲一个原创民间异闻、都市怪谈和悬疑故事。适合睡前、通勤和深夜收听。故事均为原创虚构演绎，请勿代入现实。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -80,6 +80,62 @@
       <itunes:summary>三个人进山寻古墓，只带回一盏不会熄灭的铜灯。起初村里人都说他们发财了，直到夜里灯光照过每一张脸，大家才发现，回来的不一定是原来那三个人。本故事为原创虚构民间异闻演绎，请勿代入现实。</itunes:summary>
       <itunes:image href="https://lexiaoyao.github.io/finance-podcast/midnight-story/covers/005.png" />
       <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/005_ancient_tomb_lamp_yunxi_enhanced.mp3" length="15032492" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>外婆梳妆镜半夜会自己擦干净，镜里的人比我慢半拍</title>
+      <description>外婆的老宅里有一面祖传的梳妆镜，她活着时，每到天黑就用黑布把镜子蒙上。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/006.html</link>
+      <guid isPermaLink="false">midnight-story-006</guid>
+      <pubDate>Tue, 09 Jun 2026 21:00:00 +0800</pubDate>
+      <itunes:duration>07:56</itunes:duration>
+      <itunes:summary>外婆的老宅里有一面祖传的梳妆镜，她活着时，每到天黑就用黑布把镜子蒙上。外婆走后我搬回老宅，掀开了那块布。起初我只是觉得镜子干净得反常，后来才发现，镜子里的那个我，每一个动作都比我慢半拍——直到有一晚，它先动了。本故事为原创虚构民间异闻演绎，请勿代入现实。</itunes:summary>
+      <itunes:image href="https://lexiaoyao.github.io/finance-podcast/midnight-story/covers/006.png" />
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/006_grandma_mirror_yunxi_final.mp3" length="11414090" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>城郊末班公交，报站数永远比车上的人多一个</title>
+      <description>城郊有一趟开往终点站的末班公交，司机老郑跑了八年。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/007.html</link>
+      <guid isPermaLink="false">midnight-story-007</guid>
+      <pubDate>Tue, 09 Jun 2026 21:30:00 +0800</pubDate>
+      <itunes:duration>07:25</itunes:duration>
+      <itunes:summary>城郊有一趟开往终点站的末班公交，司机老郑跑了八年。这趟车的报站器有个怪毛病：每过一站，它播报的在车人数，总比实际多出一个。老郑数过很多遍，从来没数错。直到那个雨夜，他终于忍不住，回头把全车的人，一个一个数到了底。本故事为原创虚构民间异闻演绎，请勿代入现实。</itunes:summary>
+      <itunes:image href="https://lexiaoyao.github.io/finance-podcast/midnight-story/covers/007.png" />
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/007_last_bus_yunxi_final.mp3" length="10690603" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>透析室夜班，三号机停了，到点还在自己走</title>
+      <description>小林是医院透析中心的夜班技师，负责在没有病人的深夜看护那一排机器。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/008.html</link>
+      <guid isPermaLink="false">midnight-story-008</guid>
+      <pubDate>Tue, 09 Jun 2026 22:00:00 +0800</pubDate>
+      <itunes:duration>07:33</itunes:duration>
+      <itunes:summary>小林是医院透析中心的夜班技师，负责在没有病人的深夜看护那一排机器。带他的老技师只交代一件事：三号机停用了，别去碰，更别去修。可那天凌晨，已经断电封存的三号机，屏幕自己亮了，泵也自己转了起来——它正在给一个不存在的病人，做一场早就结束的透析。本故事为原创虚构民间异闻演绎，请勿代入现实。</itunes:summary>
+      <itunes:image href="https://lexiaoyao.github.io/finance-podcast/midnight-story/covers/008.png" />
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/008_dialysis_night_yunxi_final.mp3" length="10869907" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>给老人守灵的第三夜，我发现这一夜，过了三遍</title>
+      <description>按老家的规矩，老人过世要守三夜灵，灵前的长明灯不能灭，守灵的人不能睡。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/009.html</link>
+      <guid isPermaLink="false">midnight-story-009</guid>
+      <pubDate>Tue, 09 Jun 2026 22:30:00 +0800</pubDate>
+      <itunes:duration>09:00</itunes:duration>
+      <itunes:summary>按老家的规矩，老人过世要守三夜灵，灵前的长明灯不能灭，守灵的人不能睡。轮到我守第三夜时，我盯着墙上的挂钟熬到了天快亮。可鸡叫之后，天没有亮。挂钟又一格一格，倒回了昨夜的开头。这一夜，我守了三遍，每一遍，棺材里的爷爷，都比上一遍离我更近一点。本故事为原创虚构民间异闻演绎，请勿代入现实。</itunes:summary>
+      <itunes:image href="https://lexiaoyao.github.io/finance-podcast/midnight-story/covers/009.png" />
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/009_third_vigil_night_yunxi_final.mp3" length="12958240" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>山里的夜集，老人说收了谁的东西，就得还谁</title>
+      <description>山里有一种夜集，只在阴历月底没有月亮的夜晚，开在山坳里的老渡口边。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/010.html</link>
+      <guid isPermaLink="false">midnight-story-010</guid>
+      <pubDate>Tue, 09 Jun 2026 23:00:00 +0800</pubDate>
+      <itunes:duration>08:46</itunes:duration>
+      <itunes:summary>山里有一种夜集，只在阴历月底没有月亮的夜晚，开在山坳里的老渡口边。集上什么都卖，价钱便宜得不像话。爷爷带我去过一次，临走前反复叮嘱：可以看，可以买，但买东西一定要给钱，绝不能收别人白送的东西。因为夜集的规矩是——收了谁的东西，就得拿自己，去还谁。本故事为原创虚构民间异闻演绎，请勿代入现实。</itunes:summary>
+      <itunes:image href="https://lexiaoyao.github.io/finance-podcast/midnight-story/covers/010.png" />
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/010_night_market_yunxi_final.mp3" length="12617185" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
