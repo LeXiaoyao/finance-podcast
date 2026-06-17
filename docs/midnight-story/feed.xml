@@ -5,7 +5,7 @@
     <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/</link>
     <description>每天几分钟，讲一个原创民间异闻、都市怪谈和悬疑故事。适合睡前、通勤和深夜收听。故事均为原创虚构演绎，请勿代入现实。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 11 Jun 2026 09:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 12:11:55 +0800</lastBuildDate>
     <itunes:author>午夜故事铺</itunes:author>
     <itunes:summary>每天几分钟，讲一个原创民间异闻、都市怪谈和悬疑故事。适合睡前、通勤和深夜收听。故事均为原创虚构演绎，请勿代入现实。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -686,6 +686,87 @@
       <itunes:summary>讲了五十九个故事，我从没说过自己是谁。这是第一季的最后一夜。打烊前，我想跟你聊聊这家午夜故事铺，聊聊我自己。其实，我也不太记得，是从什么时候开始，坐在这里讲故事的。那天深夜，我翻看后台，发现一件事——这家铺子里，讲故事的人，从来，不止我一个。本故事为原创虚构民间异闻演绎，请勿代入现实。</itunes:summary>
       <itunes:image href="https://lexiaoyao.github.io/finance-podcast/midnight-story/covers/060.png" />
       <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/060_closing_night_yunxi_final.mp3" length="9816023" type="audio/mpeg" />
+    </item>
+  
+    <item>
+      <title>长夜不录：雪夜驿站</title>
+      <description>大胤末年，清河县捕头沈砚押送盗马贼赵三，夜宿风雪中的断云驿。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/061.html</link>
+      <guid isPermaLink="false">midnight-story-061</guid>
+      <pubDate>Wed, 17 Jun 2026 07:41:55 +0800</pubDate>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/061_snow_night_station_yunxi_final.mp3" length="14814606" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>长夜不录：风雪封路</title>
+      <description>半枚红叶玉佩随箭入门，洗剑楼少主柳照寒神色骤变，却矢口否认玉佩与自己有关。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/062.html</link>
+      <guid isPermaLink="false">midnight-story-062</guid>
+      <pubDate>Wed, 17 Jun 2026 08:11:55 +0800</pubDate>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/062_snow_sealed_road_yunxi_final.mp3" length="13969492" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>长夜不录：夜半琴声</title>
+      <description>沈砚听见有人停在柳照寒门外，柳照寒却说“你终于来了”。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/063.html</link>
+      <guid isPermaLink="false">midnight-story-063</guid>
+      <pubDate>Wed, 17 Jun 2026 08:41:55 +0800</pubDate>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/063_midnight_qin_sound_yunxi_final.mp3" length="15445933" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>长夜不录：密室初现</title>
+      <description>赵三声称有人从房梁上掠过，马厩惊动，众人夜起。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/064.html</link>
+      <guid isPermaLink="false">midnight-story-064</guid>
+      <pubDate>Wed, 17 Jun 2026 09:11:55 +0800</pubDate>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/064_locked_room_first_seen_yunxi_final.mp3" length="16912343" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>长夜不录：第一轮问话</title>
+      <description>柳照寒死于反锁房中，身上无伤，掌心握着红叶玉佩。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/065.html</link>
+      <guid isPermaLink="false">midnight-story-065</guid>
+      <pubDate>Wed, 17 Jun 2026 09:41:55 +0800</pubDate>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/065_first_round_questions_yunxi_final.mp3" length="17948046" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>长夜不录：门闩细线</title>
+      <description>断云驿院中出现血字“长夜不录”，众人惊惧，以为凶手在门外挑衅。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/066.html</link>
+      <guid isPermaLink="false">midnight-story-066</guid>
+      <pubDate>Wed, 17 Jun 2026 10:11:55 +0800</pubDate>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/066_door_latch_thread_yunxi_final.mp3" length="13355719" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>长夜不录：尸时不对</title>
+      <description>门闩细线让密室出现裂缝，沈砚转而要求重新验尸。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/067.html</link>
+      <guid isPermaLink="false">midnight-story-067</guid>
+      <pubDate>Wed, 17 Jun 2026 10:41:55 +0800</pubDate>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/067_body_time_yunxi_final.mp3" length="14168232" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>长夜不录：霜瓦无痕</title>
+      <description>温令仪被阿顺指认曾与柳照寒子时相见，众人疑心骤起。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/068.html</link>
+      <guid isPermaLink="false">midnight-story-068</guid>
+      <pubDate>Wed, 17 Jun 2026 11:11:55 +0800</pubDate>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/068_roof_frost_tile_yunxi_final.mp3" length="14108673" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>长夜不录：旧仆失踪</title>
+      <description>马厩雪下发现血肉，说明夜行人曾被柳照寒的黑马咬伤。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/069.html</link>
+      <guid isPermaLink="false">midnight-story-069</guid>
+      <pubDate>Wed, 17 Jun 2026 11:41:55 +0800</pubDate>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/069_missing_old_servant_yunxi_final.mp3" length="14774482" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>长夜不录：玉佩之半</title>
+      <description>顾伯失踪后，沈砚把所有线索重新摆回桌上：门闩细线、湿炉灰、屋顶霜瓦、血衣墨印，以及那半枚红叶玉佩。本故事为原创虚构民间异闻演绎，请勿代入现实。</description>
+      <link>https://lexiaoyao.github.io/finance-podcast/midnight-story/episodes/070.html</link>
+      <guid isPermaLink="false">midnight-story-070</guid>
+      <pubDate>Wed, 17 Jun 2026 12:11:55 +0800</pubDate>
+      <enclosure url="https://lexiaoyao.github.io/finance-podcast/midnight-story/audio/070_red_leaf_half_yunxi_final.mp3" length="13104944" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
